@@ -1,1 +1,1 @@
-# MachineLearning
+# Theory and methods of machine learning
